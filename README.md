@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special-abs@esm/index.mjs';
+import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special-abs@v0.1.0-esm/index.mjs';
 ```
 
 #### abs( x\[, options] )
@@ -118,7 +118,7 @@ The method has the following parameters:
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEach from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each@esm/index.mjs';
-import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special-abs@esm/index.mjs';
+import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-array-special-abs@v0.1.0-esm/index.mjs';
 
 // Generate an array of random numbers:
 var x = uniform( 10, -1.0, 1.0, {
