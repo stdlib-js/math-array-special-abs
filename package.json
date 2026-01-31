@@ -40,7 +40,8 @@
     "@stdlib/array-dtypes": "^0.4.0",
     "@stdlib/math-array-tools-unary-factory": "github:stdlib-js/math-array-tools-unary-factory#main",
     "@stdlib/math-base-special-abs": "^0.2.2",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-empty": "^0.3.0",
